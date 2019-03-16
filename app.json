@@ -1,0 +1,12 @@
+{
+  "pages":[
+    "pages/display/index",
+    "pages/test/index"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "Onfire测试Demo",
+    "navigationBarTextStyle":"black"
+  }
+}

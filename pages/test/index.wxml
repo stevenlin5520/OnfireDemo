@@ -1,0 +1,7 @@
+<button catch:tap="oneExecute">执行单次订阅事件</button>
+<button catch:tap="oneSyncExecute">执行单次同步订阅事件</button>
+<button catch:tap="manyExecute">执行多次订阅事件</button>
+<button catch:tap="manySyncExecute">执行多次同步订阅事件</button>
+<button catch:tap="unExecute">清除事件unfire，测试是否还能执行</button>
+<button catch:tap="clearExecute">清空所有事件，测试是否能运行其他事件</button>
+<button catch:tap="transferExecute">可在上一页面Page中注册事件，进入下一页面之后可修改上一页面Page中的数据</button>
